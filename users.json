@@ -1,0 +1,93 @@
+{
+    "adminid1": {
+        "id": "adminid1",
+        "password": "$2y$10$2vOjGXfspeH5x0BI\/dKQM.pRr.W9iNtry02va2vScL53p21V3CizC",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "username": "admin",
+        "email": "admin@elstadion.hu"
+    },
+    "userid1": {
+        "id": "userid1",
+        "password": "$2y$10$D9QFS.\/CDbTYl7G2D4FagOtJLFvmuU2ssJuAUEzz9W7mw.FNpJ8Ki",
+        "roles": [
+            "user"
+        ],
+        "username": "user1",
+        "email": "email1"
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "password": "$2y$10$D9QFS.\/CDbTYl7G2D4FagOtJLFvmuU2ssJuAUEzz9W7mw.FNpJ8Ki",
+        "roles": [
+            "user"
+        ],
+        "email": "email2"
+    },
+    "61c8d02376978": {
+        "username": "q",
+        "password": "$2y$10$D9QFS.\/CDbTYl7G2D4FagOtJLFvmuU2ssJuAUEzz9W7mw.FNpJ8Ki",
+        "email": "q",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8d02376978"
+    },
+    "61c8d14d3bafc": {
+        "username": "w",
+        "password": "$2y$10$S5I\/.AoMe3BxYzCswSLOLezI.HlVU1L\/jTIRh\/hhA2Rb80QY7zYAS",
+        "email": "w",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8d14d3bafc"
+    },
+    "61c8d3d2c080c": {
+        "username": "a",
+        "password": "$2y$10$88Wt3jwRqIz.yVqKkd7zZOrtMilzFClWMJUzmbMFfAxOnUL0KonhG",
+        "email": "a@gmail..com",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8d3d2c080c"
+    },
+    "61c8d3ee9b2e3": {
+        "username": "s",
+        "password": "$2y$10$pNgWQgWduMYQ2yj9Axrx1.jPZosIRT0MBavmx\/1RgiH9fqSCIOxLa",
+        "email": "s@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8d3ee9b2e3"
+    },
+    "61c8e74032407": {
+        "username": "aaa",
+        "password": "$2y$10$Bxz6S0bQHlqToNvmfQmgBuZWSMn4rag75o6tI7HrDHL8\/cC5T1PGa",
+        "email": "a@asdsa.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8e74032407"
+    },
+    "61c8f20fcf787": {
+        "username": "qwe",
+        "password": "$2y$10$s2oeipoOlJPd.xQVVE9Ka.cgt2EiJrV4DwLr1Q5EgavhUfrSWFvLS",
+        "email": "a@asdsa.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8f20fcf787"
+    },
+    "61c9ac3056f71": {
+        "username": "x",
+        "password": "$2y$10$a4Ue4yCW7.H5z7Jbyvs1ge0fQhCpnSLX1caNs8Cwb8.CqC4KnrPai",
+        "email": "x@x.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61c9ac3056f71"
+    }
+}

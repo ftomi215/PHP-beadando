@@ -1,0 +1,118 @@
+{
+    "commentid1": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid1",
+        "time": "2021-12-22 00:08:11"
+    },
+    "commentid2": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid1",
+        "time": "2021-12-23 00:18:13"
+    },
+    "commentid3": {
+        "author": "userid2",
+        "text": "J\u00f3 volt!",
+        "teamid": "teamid2",
+        "time": "2021-12-23 00:22:34"
+    },
+    "61c8c86a7d690": {
+        "text": "V\u00e9gre m\u00e1r",
+        "author": "userid2",
+        "teamid": "teamid1",
+        "time": "2021-12-26 21:30:26",
+        "id": "61c8c86a7d690"
+    },
+    "61c8ca98de0a2": {
+        "text": "Sz\u00e9p volt",
+        "author": "userid2",
+        "teamid": "teamid1",
+        "time": "2021-12-26 21:39:44",
+        "id": "61c8ca98de0a2"
+    },
+    "61c8cab335d55": {
+        "text": "Alakul",
+        "author": "userid2",
+        "teamid": "teamid2",
+        "time": "2021-12-26 21:40:11",
+        "id": "61c8cab335d55"
+    },
+    "61c8cbd01e531": {
+        "text": "J\u00f3 lesz ez",
+        "author": "userid2",
+        "teamid": "teamid2",
+        "time": "2021-12-26 21:44:56",
+        "id": "61c8cbd01e531"
+    },
+    "61c8cbe70a5e4": {
+        "text": "\u00dcgyes",
+        "author": "userid2",
+        "teamid": "teamid2",
+        "time": "2021-12-26 21:45:19",
+        "id": "61c8cbe70a5e4"
+    },
+    "61c8cbfd06483": {
+        "text": "Vegre gyozelem",
+        "author": "userid2",
+        "teamid": "teamid4",
+        "time": "2021-12-26 21:45:41",
+        "id": "61c8cbfd06483"
+    },
+    "61c8cc718d5a3": {
+        "text": "J\u00f3 lesz",
+        "author": "userid2",
+        "teamid": "teamid3",
+        "time": "2021-12-26 21:47:37",
+        "id": "61c8cc718d5a3"
+    },
+    "61c8cd3961c36": {
+        "text": "Nem sz\u00e9p eddig",
+        "author": "userid2",
+        "teamid": "teamid5",
+        "time": "2021-12-26 21:50:57",
+        "id": "61c8cd3961c36"
+    },
+    "61c8cd41e2075": {
+        "text": "asd",
+        "author": "userid2",
+        "teamid": "teamid5",
+        "time": "2021-12-26 21:51:05",
+        "id": "61c8cd41e2075"
+    },
+    "61c8cd46bee5d": {
+        "text": "Alakul",
+        "author": "userid2",
+        "teamid": "teamid5",
+        "time": "2021-12-26 21:51:10",
+        "id": "61c8cd46bee5d"
+    },
+    "61c8d0a418798": {
+        "text": "Sz\u00e9p",
+        "author": "userid2",
+        "teamid": "teamid2",
+        "time": "2021-12-26 22:05:32",
+        "id": "61c8d0a418798"
+    },
+    "61c8d87d67cb3": {
+        "text": "Alakul",
+        "author": "userid2",
+        "teamid": "teamid1",
+        "time": "2021-12-26 22:39:01",
+        "id": "61c8d87d67cb3"
+    },
+    "61c8d94483c6a": {
+        "text": "asd",
+        "author": "61c8d3d2c080c",
+        "teamid": "teamid4",
+        "time": "2021-12-26 22:42:20",
+        "id": "61c8d94483c6a"
+    },
+    "61c905f48b7a4": {
+        "text": "rtz",
+        "author": "adminid1",
+        "teamid": "teamid4",
+        "time": "2021-12-27 01:53:00",
+        "id": "61c905f48b7a4"
+    }
+}
